@@ -1,4 +1,4 @@
-process.env.WP_DEVTOOL = false;
+ss;;;;process.env.WP_DEVTOOL = false;
 
 const path = require( 'path' );
 const defaultConfig = require("@wordpress/scripts/config/webpack.config");
